@@ -27,7 +27,7 @@ export default function CoverImage({ title, co,
       <h1 className='absolute uppercase tracking-[0.9em] lg:text-4xl ml-[68.2%] mt-[8%] '>{excerpt}</h1>
 
       <h1 className='absolute uppercase tracking-[1.3em] lg:text-4xl ml-[22.2%] mt-[19%] '>{aadharNumber}</h1>
-      <h1 className='absolute uppercase tracking-[1.2em] lg:text-4xl ml-[22.2%] mt-[23%] '>{title}</h1>
+      <h1 className='absolute uppercase tracking-[1.2em] leading-[1.98em] lg:text-4xl ml-[22.2%] mt-[22.79%] '>{title}</h1>
       <h1 className='absolute uppercase tracking-[1.3em] lg:text-4xl ml-[22.2%] mt-[31%] '>{co}</h1>
       <h1 className='absolute uppercase tracking-[1.2em] lg:text-4xl ml-[22.2%] mt-[35%] '>{Houseno}</h1>
       <h1 className='absolute uppercase tracking-[1.2em] lg:text-4xl ml-[22.2%] mt-[39%] '>{street}</h1>
@@ -41,7 +41,7 @@ export default function CoverImage({ title, co,
       <h1 className='absolute uppercase tracking-[0.9em] lg:text-4xl ml-[22.2%] mt-[77.5%] '>{DOB}</h1>
       <h1 className='absolute uppercase tracking-[1.2em] lg:text-4xl ml-[22.2%] mt-[86%] '>{certifiername}</h1>
       <h1 className='absolute uppercase tracking-[1.2em] lg:text-4xl ml-[22.2%] mt-[90%] '>{designation}</h1>
-      <h1 className='absolute uppercase tracking-[1.2em] lg:text-4xl ml-[22.2%]  mt-[94%] '>{officeaddress}</h1>
+      <h1 className='absolute uppercase tracking-[1.2em] leading-[1.98em] lg:text-4xl ml-[22.2%]  mt-[93.69%] '>{officeaddress}</h1>
       <h1 className='absolute uppercase tracking-[1.2em] lg:text-4xl ml-[22.2%]  mt-[102%] '>{contactno}</h1>
 
       <img className=""  src={urlForImage(source).url()}/>
