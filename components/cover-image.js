@@ -35,8 +35,8 @@ export default function CoverImage({ title, co,
       <h1 className='absolute uppercase tracking-[1.2em] lg:text-4xl ml-[22.2%] mt-[47%] '>{Area}</h1>
       <h1 className='absolute uppercase tracking-[1.2em] lg:text-4xl ml-[22.2%] mt-[51%] '>{Village}</h1>
       <h1 className='absolute uppercase tracking-[1.2em] lg:text-4xl ml-[22.2%] mt-[55%] '>{PostOffice}</h1>
-      <h1 className='absolute uppercase tracking-[1.2em] lg:text-4xl ml-[22.2%] mt-[59%] '>{District}</h1>
-      <h1 className='absolute uppercase tracking-[1.2em] lg:text-4xl ml-[22.2%] mt-[63%] '>{State}</h1>
+      <h1 className='absolute uppercase tracking-[1.2em] lg:text-4xl ml-[22.2%] mt-[59%] '>PUNE</h1>
+      <h1 className='absolute uppercase tracking-[1.2em] lg:text-4xl ml-[22.2%] mt-[63%] '>MAHARASHTRA</h1>
       <h1 className='absolute uppercase tracking-[1.2em] lg:text-4xl ml-[22.2%] mt-[73%] '>{Pincode}</h1>
       <h1 className='absolute uppercase tracking-[0.9em] lg:text-4xl ml-[22.2%] mt-[77.5%] '>{DOB}</h1>
       <h1 className='absolute uppercase tracking-[1.2em] lg:text-4xl ml-[22.2%] mt-[86%] '>{certifiername}</h1>

@@ -15,7 +15,7 @@ export default function Landing({ allPosts, preview }) {
         <Head>
           <title>{`Aadhar Enrollment`}</title>
         </Head>
-        <Container>
+        <div className="grid">
           <Intro />
           {heroPost && (
             <HeroPost
@@ -32,7 +32,7 @@ export default function Landing({ allPosts, preview }) {
             />
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts}  />}
-        </Container>
+        </div>
       </Layout>
     </>
   );
